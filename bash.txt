@@ -1,1 +1,3 @@
 this is automate testing bash script
+new
+test
